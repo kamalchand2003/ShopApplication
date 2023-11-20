@@ -1,4 +1,4 @@
-# SHOPAPPLICATION
+# SHOP APPLICATION
  * This is a project of online Ordering grocery
  * In this there are two users Customer (Buyer)  and Shopkeeper(Seller)
  * Buyer can view the products,order the Products ,set the quantity,
